@@ -2,8 +2,7 @@
 
 ###############################################
 # set this to your data folder
-
-data_hub      ="C:/Users/bekes/Documents/data_hub_shared_public"
+data_hub      ="E/data_hub_shared_public"
 
 # definitions
 source(paste0("wrangling/01_anon-maker/","league-filter.R"))  
