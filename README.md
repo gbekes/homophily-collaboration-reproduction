@@ -6,6 +6,7 @@
 
 This document provides guidance for reproducing the results in "Cultural Homophily and Collaboration in Superstar Teams". The reproduction package contains code for data processing, analysis, and figure/table generation.
 
+Public data us available at [OSF.io repo](https://osf.io/f8u9n/)
 
 ## Rights
 
@@ -127,7 +128,6 @@ The analysis requires several data sources:
 - Cultural distance measures
 
 Note: Some raw data files are not publicly shared but can be accessed via reproduction requests.
-
 
 ## Raw data (gated) 
 
